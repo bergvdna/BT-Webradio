@@ -1,1 +1,5 @@
-
+{
+  "version": 102,
+  "firmware": "https://raw.githubusercontent.com/USER/REPO/main/dist/prod/firmware.bin",
+  "spiffs": "https://raw.githubusercontent.com/USER/REPO/main/dist/prod/spiffs.bin"
+}
