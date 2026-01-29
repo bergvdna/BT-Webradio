@@ -1,4 +1,5 @@
 {
+  "force_restart": false,
   "version": 105,
   "spiffs_version": 3,
   "firmware": "https://raw.githubusercontent.com/bergvdna/BT-Webradio/refs/heads/main/dist/dev/firmware.bin",
