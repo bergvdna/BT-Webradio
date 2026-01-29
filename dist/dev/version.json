@@ -1,5 +1,5 @@
 {
-  "version": 102,
+  "version": 103,
   "firmware": "https://raw.githubusercontent.com/bergvdna/BT-Webradio/refs/heads/main/dist/dev/firmware.bin",
   "spiffs": "https://raw.githubusercontent.com/bergvdna/BT-Webradio/refs/heads/main/dist/dev/spiffs.bin"
 }
