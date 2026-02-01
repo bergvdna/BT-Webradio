@@ -1,5 +1,7 @@
 {
-  "version": 102,
+  "force_restart": false,
+  "version": 202602011,
+  "spiffs_version": 202602011,
   "firmware": "https://raw.githubusercontent.com/USER/REPO/main/dist/prod/firmware.bin",
   "spiffs": "https://raw.githubusercontent.com/USER/REPO/main/dist/prod/spiffs.bin"
 }
