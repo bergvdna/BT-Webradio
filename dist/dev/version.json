@@ -1,7 +1,7 @@
 {
   "force_restart": false,
-  "version": 202602012,
-  "spiffs_version": 202602012,
+  "version": 202602015,
+  "spiffs_version": 202602013,
   "firmware": "https://raw.githubusercontent.com/bergvdna/BT-Webradio/refs/heads/main/dist/dev/firmware.bin",
   "spiffs": "https://raw.githubusercontent.com/bergvdna/BT-Webradio/refs/heads/main/dist/dev/spiffs.bin"
 }
