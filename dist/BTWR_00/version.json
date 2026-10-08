@@ -1,6 +1,6 @@
 {
-  "version": 202610079,
-  "spiffs_version": 202610078,
+  "version": 202610081,
+  "spiffs_version": 202610081,
   "force_restart": false,
   "max_bright": 100,
   "fade_in_ochtend": true,
