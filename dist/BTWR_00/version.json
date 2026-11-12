@@ -1,9 +1,9 @@
 {
-  "version": 202611031,
-  "spiffs_version": 202611031,
+  "version": 202611126,
+  "spiffs_version": 202611125,
   "force_restart": false,
   "max_bright": 100,
   "fade_in_ochtend": true,
-  "firmware": "https://raw.githubusercontent.com/bergvdna/BT-Webradio/refs/heads/main/dist/dev/firmware.bin",
-  "spiffs": "https://raw.githubusercontent.com/bergvdna/BT-Webradio/refs/heads/main/dist/dev/spiffs.bin"
+  "firmware": "https://raw.githubusercontent.com/bergvdna/BT-Webradio/refs/heads/main/dist/prod/firmware.bin",
+  "spiffs": "https://raw.githubusercontent.com/bergvdna/BT-Webradio/refs/heads/main/dist/prod/spiffs.bin"
 }
